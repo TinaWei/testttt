@@ -4,8 +4,8 @@
   "docsets_to_publish": [
     {
       "docset_name": "cfsfzzz",
-      "build_source_folder": "a",
-      "build_output_subfolder": "a",
+      "build_source_folder": "absd",
+      "build_output_subfolder": "absd",
       "locale": "en-us",
       "version": 0,
       "open_to_public_contributors": true,
